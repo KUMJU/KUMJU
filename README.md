@@ -1,12 +1,15 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=27FF2C&height=100&section=header&text=Kumju's%20Github&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=soft&color=27FF2C&height=100&section=header&text=Kumju's%20Github&fontSize=20)
+
 
 ## 🎇Tech Stack🎇
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
+
 ## ⚙️Tools⚙️
+
 
 
 
