@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Kumju%20render&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Kumju's%20Github&fontSize=40)
 
 
 ## Hi there 👋
