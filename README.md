@@ -1,7 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=27FF2C&height=100&section=header&text=Kumju's%20Github&fontSize=20)
-
 
 ## 🎇Tech Stack🎇
 
