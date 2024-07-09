@@ -13,9 +13,7 @@
 
 ## 📬Contact📬
 
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-kumju0723@gmail.com
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kumju0723@gmail.com)](mailto:kumju0723@gmail.com)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kumju0723)](https://solved.ac/kumju0723/)
