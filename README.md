@@ -18,6 +18,10 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kumju0723)](https://solved.ac/kumju0723/)
 
+
+<a href="https://github.com/KUMJU"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
+
+
 </div>
 
 
